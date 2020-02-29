@@ -1,0 +1,7 @@
+[
+    "https://*.geolonia.com",
+    "http://127.0.0.1:*/",
+    "http://localhost:*/",
+    "https://playcode.io/",
+    "https://*.github.io/"
+]
