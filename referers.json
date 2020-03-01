@@ -1,9 +1,10 @@
 [
   "http://127.0.0.1:*/",
   "http://localhost:*/",
+  "https://*.github.io/",
   "https://*.geolonia.com/",
   "https://playcode.io/",
-  "https://*.github.io/",
   "https://webmaker.app/app/",
-  "https://jsfiddle.net/"
+  "https://jsfiddle.net/",
+  "https://codepen.io/"
 ]
