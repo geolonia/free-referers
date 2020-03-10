@@ -7,5 +7,5 @@
   "https://webmaker.app",
   "https://*.csb.app",
   "https://cdpn.io",
-  "https://deploy-preview-*--geolonia-embed.netlify.com"
+  "https://deploy-preview-*--geolonia-*.netlify.com"
 ]
