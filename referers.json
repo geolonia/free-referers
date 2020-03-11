@@ -7,5 +7,6 @@
   "https://webmaker.app",
   "https://*.csb.app",
   "https://cdpn.io",
-  "https://deploy-preview-*.netlify.com"
+  "https://deploy-preview-*.netlify.com",
+  "https://fiddle.jshell.net"
 ]
