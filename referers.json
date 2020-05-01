@@ -10,8 +10,8 @@
   "https://webmaker.app",
   "https://*.csb.app",
   "https://cdpn.io",
-  "https://deploy-preview-*.netlify.com",
-  "https://deploy-preview-*.netlify.app",
+  "https://*.netlify.com",
+  "https://*.netlify.app",
   "https://fiddle.jshell.net",
   "https://geolonia.ap.ngrok.io"
 ]
