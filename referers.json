@@ -12,6 +12,7 @@
   "https://cdpn.io",
   "https://*.netlify.com",
   "https://*.netlify.app",
+  "https://*.monaca-app.com",
   "https://fiddle.jshell.net",
   "https://geolonia.ap.ngrok.io"
 ]
