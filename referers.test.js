@@ -13,3 +13,5 @@ if(!Array.isArray(referers)) {
 if(referers.some(referer => typeof referer !== 'string')) {
     throw new Error('Should be string values.')
 }
+
+console.log('success.')
