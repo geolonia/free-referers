@@ -1,6 +1,10 @@
 [
   "http://127.0.0.1:*",
   "http://localhost:*",
+  "http://*.test",
+  "http://*.example",
+  "https://*.test",
+  "https://*.example",
   "https://*.github.io",
   "https://geolonia.com",
   "https://*.geolonia.com",
