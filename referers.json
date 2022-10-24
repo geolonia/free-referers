@@ -33,5 +33,6 @@
   "https://*.netlify.com",
   "https://*.netlify.app",
   "https://fiddle.jshell.net",
-  "https://geolonia.ap.ngrok.io"
+  "https://geolonia.ap.ngrok.io",
+  "https://*.vercel.app"
 ]
