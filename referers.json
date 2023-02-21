@@ -35,5 +35,5 @@
   "https://fiddle.jshell.net",
   "https://geolonia.ap.ngrok.io",
   "https://*.vercel.app",
-  "https://*.preview.app.github.dev:*"
+  "https://*.preview.app.github.dev"
 ]
