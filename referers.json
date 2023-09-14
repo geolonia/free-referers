@@ -36,5 +36,6 @@
   "https://geolonia.ap.ngrok.io",
   "https://*.vercel.app",
   "https://*.preview.app.github.dev",
-  "https://*.pages.dev"
+  "https://*.pages.dev",
+  "https://*.*.pages.dev"
 ]
