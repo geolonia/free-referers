@@ -4,6 +4,7 @@
   "http://*.test",
   "http://*.example",
   "https://*.test",
+  "https://*.local",
   "https://*.example",
   "http://*.test:*",
   "http://*.example:*",
