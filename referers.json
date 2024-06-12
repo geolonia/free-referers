@@ -7,6 +7,7 @@
   "https://*.local",
   "https://*.example",
   "http://*.test:*",
+  "http://*.local",
   "http://*.example:*",
   "https://*.test:*",
   "https://*.example:*",
