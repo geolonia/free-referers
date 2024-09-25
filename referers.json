@@ -41,5 +41,6 @@
   "https://*.preview.app.github.dev",
   "https://*.pages.dev",
   "https://*.*.pages.dev",
-  "https://maplibre.org"
+  "https://maplibre.org",
+  "https://*.cloudfront.net"
 ]
