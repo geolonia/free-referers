@@ -40,5 +40,6 @@
   "https://*.vercel.app",
   "https://*.preview.app.github.dev",
   "https://*.pages.dev",
-  "https://*.*.pages.dev"
+  "https://*.*.pages.dev",
+  "https://*.cloudfront.net"
 ]
