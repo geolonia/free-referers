@@ -42,6 +42,7 @@
   "https://*.pages.dev",
   "https://*.*.pages.dev",
   "https://*.workers.dev",
+  "https://*.*.workers.dev",
   "https://maplibre.org",
   "https://*.cloudfront.net"
 ]
