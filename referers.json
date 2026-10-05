@@ -43,6 +43,8 @@
   "https://*.*.pages.dev",
   "https://*.workers.dev",
   "https://*.*.workers.dev",
+  "https://*.chatgpt.site",
+  "https://*.*.chatgpt.site",
   "https://maplibre.org",
   "https://*.cloudfront.net"
 ]
